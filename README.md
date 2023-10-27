@@ -33,13 +33,6 @@ Refer on how to deploy Python apps in Heroku [here](https://devcenter.heroku.com
 - Can see all the shortened urls created with it.
 - Can choose any custom value to shorten the url.
 
-### Features to add
-
-- Improve the CSS of the site.
-- Add a User Authentication system.
-- Add a process to delete any redirects not used within 7 days.
-
-*More features can be suggested in Issues.*
 
 #### Known Issues:
 
@@ -50,7 +43,5 @@ No issues detected till now.
 ## Notes
 
 This project was created on **Ubuntu-20.04 LTS** and tested under **Windows 10** and **Ubuntu**, and is expected to work fully in other systems too.
-
-This project is still under development. Parts of the source codes may not be well documented. Also suitable prompts may not be available for the user at the moment.
 
 More features and fixes are yet to come. Meanwhile suggestions, ideas, bug reports are welcomed.
